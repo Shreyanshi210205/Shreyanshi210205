@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack & Web3 Developer from India 🇮🇳</h3>
 
 <p align="center">
-🌱 2nd year Computer Science student at <b>Indian Institute of Information Technology, Bhagalpur</b><br>
+🌱   3rd year Computer Science student at <b>Indian Institute of Information Technology, Bhagalpur</b><br>
 🔭 Currently working on Full Stack + Blockchain projects<br>
 💬 Ask me about <b>React.js, Tailwind CSS, Firebase, Node.js, Solidity</b><br>
 📫 Reach me at: <a href="mailto:shreyanshi.230101129@iiitbh.ac.in">shreyanshi.230101129@iiitbh.ac.in</a>
