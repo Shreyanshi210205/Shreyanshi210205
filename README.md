@@ -1,73 +1,51 @@
-<h1 align="center">Hi 👋, I'm Shreyanshi Srivastava</h1>
-<h3 align="center">A passionate Full Stack & Web3 Developer from India 🇮🇳</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shreyanshi210205/Shreyanshi210205/main/assets/hero-banner.svg" alt="Shreyanshi Srivastava Banner" width="100%" />
+</p>
 
 <p align="center">
-🌱   3rd year Computer Science student at <b>Indian Institute of Information Technology, Bhagalpur</b><br>
-🔭 Currently working on Full Stack + Blockchain projects<br>
-💬 Ask me about <b>React.js, Tailwind CSS, Firebase, Node.js, Solidity</b><br>
-📫 Reach me at: <a href="mailto:shreyanshi.230101129@iiitbh.ac.in">shreyanshi.230101129@iiitbh.ac.in</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9945FF&center=true&vCenter=true&width=500&lines=Distributed+Systems+Explorer;AI+Engine+Architect;Competitive+Programmer" alt="Typing Title" />
 </p>
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
-
-  <!-- Backend & DB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-
-  <!-- Blockchain -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-original.svg" width="40" height="40"/>
-  
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreyanshi210205&show_icons=true&theme=tokyonight" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyanshi210205&theme=tokyonight" alt="streak" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shreyanshi210205.Shreyanshi210205&left_color=1A1A2E&right_color=9945FF" alt="Visitors" />
+  <a href="https://linkedin.com/in/shreyanshi-srivastava-774280295/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shreyanshi.work0905@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## ⚡ The Manifesto
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreyanshi210205&theme=tokyonight&row=1&column=8" />
-</p>
+> I engineer high-throughput systems where microservices communicate effortlessly and untrusted code executes safely. Balancing academic excellence (**9.12 CGPA** at IIIT Bhagalpur) with rigorous system design, I map asynchronous architectures to solve real-world scale challenges.
 
 ---
 
-## 🌐 Connect with me
+## 🛠️ The Tech Arsenal
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/shreyanshi-srivastava-774280295/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
-  </a>
-  <a href="mailto:shreyanshi.230101129@iiitbh.ac.in" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="gmail" height="30" width="30" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Languages & Frameworks</h4>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Infrastructure & Databases</h4>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Shreyanshi210205.Shreyanshi210205)
+## 🚀 Architectural Showcases
+
+### 🟢 LinkUp — Distributed Real-Time Messaging Platform
+*Event-driven microservices architecture for global concurrent messaging.*
