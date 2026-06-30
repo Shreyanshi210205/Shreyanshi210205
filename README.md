@@ -49,3 +49,62 @@
 
 ### 🟢 LinkUp — Distributed Real-Time Messaging Platform
 *Event-driven microservices architecture for global concurrent messaging.*
+
+[ Client ] ──(Socket.IO)──> [ API Gateway ] ──> [ RabbitMQ Broker ] ──> [ Message Workers ] ──> [ MongoDB / Redis ]
+
+
+* **The Challenge:** Managing high concurrent messaging loads across multi-instance microservices without state loss or racing conditions.
+* **The Solution:** Implemented an event-driven pub/sub architecture using **RabbitMQ** and **Socket.IO** clusters inside isolated **Docker** networks. Backed authentication with temporary **Redis-based OTP pipelines**, eliminating database lookups by **90%** and maintaining sub-second validation rates under concurrent stress.
+
+### 🔴 JudgeX — Secure Remote Code Execution Engine
+*A sandboxed online judging sub-system designed for synchronous performance metrics.*
+
+* **The Challenge:** Executing untrusted user-submitted source code securely without compromising infrastructure host safety.
+* **The Solution:** Crafted a robust task evaluation process leveraging **BullMQ** asynchronously orchestrated via **Redis**. Source code compilation is executed entirely within dynamic, ephemeral **Docker containers**, establishing secure isolation environments while achieving a **20% improvement** in system responsiveness through state caching.
+
+---
+
+## 🏆 Competitive Engineering & Metrics
+
+<p align="center">
+  <a href="https://leetcode.com/Shreyanshi210205/">
+    <img src="https://leetcode-stats.vercel.app/api?username=Shreyanshi210205&theme=dark" alt="LeetCode Profile Stats" width="48%" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyanshi210205&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=9945FF&icon_color=00F0FF" alt="GitHub Metrics" width="49%" />
+</p>
+
+### ⚔️ Milestone Trackers
+* **LeetCode:** 600+ problems solved | **Max Rating: 1701** (Top 13.46% Global).
+* **HackWithInfy 2026:** National Semifinalist.
+* **Hacktoberfest:** Supercontributor (6/6 badges obtained, 20+ production PRs merged).
+* **CodeZilla:** Finalist (Top 4 finish out of 200+ competitive engineers).
+
+---
+
+## 📊 Infrastructure Pulse
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyanshi210205&theme=tokyonight&background=0D1117&ring=9945FF&fire=00F0FF" alt="Contribution Streak" width="100%"/>
+</p>
+
+┌────────────────────────────────────────────────────────────────────────┐
+│  ACTIVE EXPERIMENTS                                                    │
+├────────────────────────────────────────────────────────────────────────┤
+│  ⚡ Asynchronous Code Evaluation Engines (Google Gemini API integration)│
+│  🐳 Distributed Context Isolation via Container Environments            │
+│  🚀 Optimizing Multi-Node Pub/Sub Topologies                           │
+└────────────────────────────────────────────────────────────────────────┘
+
+
+---
+
+## 📈 Profiling Timeline
+
+2023 ──> Entered IIIT Bhagalpur (CSE Core Track)
+2025 ──> Appointed Training and Placement Coordinator & Developed MindMitra (AI Health Core)
+2026 ──> Built JudgeX Engine, LinkUp Infrastructure, and joined AlgoUniversity as SWE Intern
+
+
+<p align="center">
+  <sub>Designed with meticulous precision. Configured by automated GitHub Action Workflows. 🌐</sub>
+</p>
