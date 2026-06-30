@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/Shreyanshi210205/">
-    <img src="https://leetcode-stats.vercel.app/api?username=Shreyanshi210205&theme=dark" alt="LeetCode Profile Stats" width="48%" />
+    <img src="https://leetcode-stats-six.vercel.bar/api?username=Shreyanshi210205&theme=dark" alt="LeetCode Stats" width="48%" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=Shreyanshi210205&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=9945FF&icon_color=00F0FF" alt="GitHub Metrics" width="49%" />
 </p>
@@ -87,13 +87,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyanshi210205&theme=tokyonight&background=0D1117&ring=9945FF&fire=00F0FF" alt="Contribution Streak" width="100%"/>
 </p>
 
-┌────────────────────────────────────────────────────────────────────────┐
-│  ACTIVE EXPERIMENTS                                                    │
-├────────────────────────────────────────────────────────────────────────┤
-│  ⚡ Asynchronous Code Evaluation Engines (Google Gemini API integration)│
-│  🐳 Distributed Context Isolation via Container Environments            │
-│  🚀 Optimizing Multi-Node Pub/Sub Topologies                           │
-└────────────────────────────────────────────────────────────────────────┘
+#### 🧪 ACTIVE EXPERIMENTS
+```text
+⚡ Asynchronous Code Evaluation Engines (Google Gemini API integration)
+🐳 Distributed Context Isolation via Container Environments
+🚀 Optimizing Multi-Node Pub/Sub Topologies
 
 
 ---
